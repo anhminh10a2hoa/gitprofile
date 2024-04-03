@@ -27,7 +27,6 @@ import CertificationCard from './certification-card';
 import { GithubProject } from '../interfaces/github-project';
 import GithubProjectCard from './github-project-card';
 import ExternalProjectCard from './external-project-card';
-import BlogCard from './blog-card';
 import Footer from './footer';
 import PublicationCard from './publication-card';
 
@@ -271,13 +270,6 @@ const GitProfile = ({ config }: { config: Config }) => {
                           sanitizedConfig.projects.external.projects
                         }
                         googleAnalyticId={sanitizedConfig.googleAnalytics.id}
-                      />
-                    )}
-                    {sanitizedConfig.blog.display && (
-                      <BlogCard
-                        loading={loading}
-                        googleAnalyticsId={sanitizedConfig.googleAnalytics.id}
-                        blog={sanitizedConfig.blog}
                       />
                     )}
                   </div>
