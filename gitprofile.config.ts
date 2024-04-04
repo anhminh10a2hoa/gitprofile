@@ -63,7 +63,7 @@ const CONFIG = {
   social: {
     linkedin: 'minh-hoang-110510181',
     telegram: 'anhminh256',
-    website: 'https://hoanganhminh.com',
+    website: 'https://anhminh10a2hoa.github.io/gitprofile',
     phone: '0406765729',
     email: 'anhminh10a2hoa@gmail.com',
   },
