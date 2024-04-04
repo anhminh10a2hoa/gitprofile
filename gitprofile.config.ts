@@ -35,7 +35,7 @@ const CONFIG = {
           description:
             'An app to help you find something to do in the city of Tampere e.g., when you are travelling for a business and have an evening to spend, or you are looking for something new or different to do',
           imageUrl:
-            'https://anhminh10a2hoa.github.io/gitprofile/turnup-project.jpg',
+            'https://anhminh10a2hoa.github.io/gitprofile/turnup_project.jpg',
         },
         {
           title: 'Rainportal for Map Visualization',
