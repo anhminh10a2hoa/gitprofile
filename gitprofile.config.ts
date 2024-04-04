@@ -34,20 +34,22 @@ const CONFIG = {
           title: 'Turn Up',
           description:
             'An app to help you find something to do in the city of Tampere e.g., when you are travelling for a business and have an evening to spend, or you are looking for something new or different to do',
-          imageUrl: 'https://i.ibb.co/znN1Vcv/turnup-project.jpg',
+          imageUrl:
+            'https://anhminh10a2hoa.github.io/gitprofile/turnup-project.jpg',
         },
         {
           title: 'Rainportal for Map Visualization',
           description:
             'Online visualization platform of SkyEcho HD weather products and 3rd party data. It includes real-time rainfall visualization, archive mode visualization, on-the fly rainfall statistics and on-demand third party sensor integration',
-          imageUrl: 'https://i.ibb.co/F87pznN/mainpagee-d2856da6.png',
+          imageUrl:
+            'https://anhminh10a2hoa.github.io/gitprofile/rainportal_project.png',
         },
         {
           title: 'REST Client for IoT-Ticket.com',
           description:
             'Typescript REST Client for IoT-Ticket.com of Wapice company',
           imageUrl:
-            'https://www.wapice.com/user/pages/02.services/internet-of-things-services/Kuva1_iot.svg?g-79159f8a',
+            'https://anhminh10a2hoa.github.io/gitprofile/iot_ticket.jpg',
           link: 'https://github.com/anhminh10a2hoa/IoT-typescript-client',
         },
       ],
@@ -66,8 +68,7 @@ const CONFIG = {
     email: 'anhminh10a2hoa@gmail.com',
   },
   resume: {
-    fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf',
+    fileUrl: 'https://anhminh10a2hoa.github.io/gitprofile/minh_hoang_cv.pdf',
   },
   skills: [
     'TypeScript',
