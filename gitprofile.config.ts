@@ -87,13 +87,23 @@ const CONFIG = {
     'Jenkins',
     'Scrum',
     'Software design',
+    'Dash',
+    'Go',
+    'Python',
   ],
   experiences: [
     {
       company: 'Cargotec Oyj',
       position: 'Software Engineer',
+      from: 'May 2024',
+      to: 'Present',
+      companyLink: 'https://www.viaccess-orca.com/',
+    },
+    {
+      company: 'Cargotec Oyj',
+      position: 'Software Engineer',
       from: 'May 2022',
-      to: 'December 2023',
+      to: 'February 2024',
       companyLink: 'https://www.cargotec.com',
     },
     {
