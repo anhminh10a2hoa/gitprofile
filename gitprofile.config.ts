@@ -93,17 +93,17 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Cargotec Oyj',
+      company: 'Viaccess-orca',
       position: 'Software Engineer',
       from: 'May 2024',
-      to: 'Present',
+      to: 'December 2024',
       companyLink: 'https://www.viaccess-orca.com/',
     },
     {
       company: 'Cargotec Oyj',
       position: 'Software Engineer',
       from: 'May 2022',
-      to: 'February 2024',
+      to: 'April 2024',
       companyLink: 'https://www.cargotec.com',
     },
     {
@@ -126,7 +126,7 @@ const CONFIG = {
       institution: 'Tampere University',
       degree: 'MasterMaster of Science - MS, Software, Web & Cloud',
       from: 'August 2023',
-      to: 'December 2024',
+      to: 'May 2025',
     },
     {
       institution: 'Vaasa University of Applied Sciences',
